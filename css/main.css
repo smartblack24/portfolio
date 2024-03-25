@@ -5284,6 +5284,14 @@ textarea {
   list-style: none;
 }
 
+.experience-section h5 {
+  margin-bottom: 0px;
+}
+
+.experience-section h4 {
+  margin-bottom: 0px;
+}
+
 .section-content ul.list-secondary>li:before {
   position: absolute;
   border-radius: 2rem;
