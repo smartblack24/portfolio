@@ -5253,6 +5253,10 @@ textarea {
   list-style: disc;
 }
 
+.section-content {
+  width: 100%;
+}
+
 .section-content ul.list-primary {
   padding-left: 0;
 }
